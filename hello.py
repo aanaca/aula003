@@ -8,7 +8,7 @@ def hello_world():
             <h1>Avaliação contínua: Aula 030</h1>
             <ul>
                 <li><a href="/">Home</a></li>
-                <li><a href="/aluno/Ana Caroline de Oliveira/PT3022234X/IFSP">Identificação</a></li>
+                <li><a href="/aluno/Ana Caroline de Oliveira/PT302234X/IFSP">Identificação</a></li>
                 <li><a href="/contextorequisicao">Contexto da requisição</a></li>
             </ul>
         """
